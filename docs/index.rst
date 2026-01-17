@@ -9,6 +9,12 @@ feature allows filers to continue their tax work efficiently, while the **taxact
 offers centralized control over filings, documents, and account security. Understanding how the **tax act login returning customer**
 sign-in works ensures smooth access and confident tax management every season.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://mytaxact.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
+   </div>
+
 Overview of TaxAct for Returning Users
 --------------------------------------
 
@@ -267,4 +273,5 @@ Final Thoughts
 Using the **tax act login returning customer** option allows previous filers to access their accounts quickly and securely.
 For every **taxact login returning user**, the dashboard offers an organized environment for managing tax returns, documents,
 and personal information. By understanding the sign-in process, dashboard features, and security tools, returning customers
+
 can manage their tax responsibilities with confidence, efficiency, and peace of mind year after year.
